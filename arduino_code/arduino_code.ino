@@ -1,5 +1,5 @@
 #define MOTORA_A 10
-#define MOTORA_B 6
+#define MOTORA_B 9
 
 void setup() {
   pinMode(MOTORA_A, OUTPUT);
